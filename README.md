@@ -1,7 +1,6 @@
-## Hi there 👋. I'm Landry John
+## Hi 👋. I'm Landry John
 
-### Security Engineer 🤖 and Fullstack Dev 👨‍💻.
-
+### I learn cybersecurity 🤖. Fullstack Dev 👨‍💻.
 
 - 🔭 I’m currently working on AI (Deep Neural Network) assisted intrusion detection and network monitoring system. 
 - 🌱 I’m currently learning : Project Management, Finances, CI/CD, Security(OSCP, OSCE), Python, Ansible, Docker, Blockchain. 
@@ -51,7 +50,7 @@
 
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-### My Github stat 💹
+### My Github Stats 💹
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=landryjohn&count_private=true&theme=react&showicons=true)]()
 
