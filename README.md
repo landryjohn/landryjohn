@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Landry John</h1>
-<h3 align="center">A passionate Cloud Security Engineer and Fullstack developer from Africa</h3>
+<h3 align="center">A passionate Cloud Security Engineer and Fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=landryjohn&label=Profile%20views&color=0e75b6&style=flat" alt="landryjohn" /> </p>
 
